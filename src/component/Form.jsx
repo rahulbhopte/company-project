@@ -182,8 +182,8 @@ export default function From() {
               <option placeholder='ID Type' value="">Enter State</option>
               <option value="assm">Assam</option>
               <option value="Bihar">Bihar</option>
-              <option value="Uttar pradesh">uttar prAdesh</option>
-              <option value="Madhya pradesh">Madhya prAdesh</option>
+              <option value="Uttar Pradesh">uttar prAdesh</option>
+              <option value="Madhya Pradesh">Madhya prAdesh</option>
             </select>
           </Pcontainer>
           <Pcontainer style={{ flex: 1 }}>
